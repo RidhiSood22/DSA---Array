@@ -1,4 +1,4 @@
-# DSA---Array
+# DSA---Array using C++
 
 # 1. Implement a program for array operations: insertion, deletion, and traversal. 
 # 2. Write a program to reverse a string using arrays. 
